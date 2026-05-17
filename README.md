@@ -53,5 +53,5 @@ Pressione Ctrl + A → clique direito → Run Query.
 Confirme com:
 SHOW TABLES;
 👨‍💻 Autor
-Projeto desenvolvido por Valdemir (VGNelo) - Alura/Oracle OCI - como parte dos estudos de MySQL.
+Projeto desenvolvido por Valdemir (VGNelo) - Alura/ONE - como parte dos estudos de MySQL.
 
